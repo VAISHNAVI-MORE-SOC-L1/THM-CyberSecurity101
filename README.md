@@ -2,7 +2,8 @@
 
 > A structured documentation of my hands-on cybersecurity learning journey through the **TryHackMe Cyber Security 101 Path**, covering networking, operating systems, web security, cryptography, offensive security, defensive security, and SOC fundamentals.
 
-<img width="690" height="320" alt="image" src="https://github.com/user-attachments/assets/c7d7cb7a-d337-4896-b102-a5575bedc7cf" />
+<img width="680" height="370" alt="image" src="https://github.com/user-attachments/assets/3776f84f-584f-4bb6-a2e5-aff2bc04aade" />
+
 
 
 # 📊 Learning Statistics
@@ -285,7 +286,7 @@ Every room follows the same structure to make revision easier.
 
 The completion certificate is available inside the **Certificate** directory.
 
----<img width="969" height="687" alt="Screenshot 2026-08-12 201104" src="https://github.com/user-attachments/assets/e0540d76-a3c4-42fd-ac46-7d79256fe8b3" />
+<img width="1122" height="794" alt="image" src="https://github.com/user-attachments/assets/081e490f-0d02-4dc3-b172-6f78e78f5a1f" />
 
 
 # 🚧 Repository Status
